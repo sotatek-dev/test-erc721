@@ -303,13 +303,6 @@
   "proxies": {
     "crypto-chocobo/CryptoChocobo": [
       {
-        "address": "0xc3BF8d95375202E192d5dD5A3830623d6aCfFF7d",
-        "version": "1.0.0",
-        "implementation": "0x55147c9cEf1121cFc47bFE1BDe6E1bd25D77bbEa",
-        "admin": "0x6bba3a983b6eD8Af3eeE65AE4233073FAe0aB5d1",
-        "kind": "Upgradeable"
-      },
-      {
         "address": "0xD3025C46379bcedBF1d0E0648022899973Ad20c5",
         "version": "1.0.0",
         "implementation": "0x55147c9cEf1121cFc47bFE1BDe6E1bd25D77bbEa",
