@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/sotatek-dev/test-erc721#readme",
   "dependencies": {
-    "@openzeppelin/contracts": "2.4.0",
+    "@openzeppelin/contracts": "4.4.2",
     "@openzeppelin/contracts-ethereum-package": "2.3.0",
     "@openzeppelin/upgrades": "2.5.3",
     "@truffle/hdwallet-provider": "1.0.23",
